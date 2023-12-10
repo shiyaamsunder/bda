@@ -2,6 +2,7 @@
 
 Work Done so far
 - [x] Basic Descriptive analysis and Plotting for Dataset A
+- [x] Image based Model building
 
 Ongoing work
 - [ ] Analysis for Dataset B
@@ -11,4 +12,3 @@ Ongoing work
 - [ ] Model Evaluation for Dataset B
 
 Work to be considered
-- [ ] Image based Model building
