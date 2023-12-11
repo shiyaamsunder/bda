@@ -1,0 +1,28 @@
+Classification Report:
+                                 precision    recall  f1-score   support
+
+             Acid Attack Victim       1.00      0.00      0.00       334
+       Autism Spectrum Disorder       1.00      0.00      0.00       639
+                      Blindness       1.00      0.00      0.00      1157
+                 Cerebral Palsy       1.00      0.00      0.00       941
+Chronic Neurological Conditions       1.00      0.00      0.00       687
+             Hearing Impairment       0.06      0.33      0.11      1207
+                     Hemophilia       1.00      0.00      0.00       622
+        Intellectual Disability       1.00      0.00      0.00      1073
+                  Leprosy Cured       1.00      0.00      0.00       577
+           Locomotor Disability       0.08      0.64      0.15      1252
+                     Low Vision       1.00      0.00      0.00      1104
+                 Mental Illness       1.00      0.00      0.00      1020
+            Multiple Disability       1.00      0.00      0.00      1027
+             Multiple Sclerosis       1.00      0.00      0.00       457
+             Muscular Dystrophy       1.00      0.00      0.00       791
+            Parkinson'S Disease       1.00      0.00      0.00       384
+         Short Stature/Dwarfism       1.00      0.00      0.00       591
+            Sickle Cell Disease       1.00      0.00      0.00       348
+ Specific Learning Disabilities       1.00      0.00      0.00       378
+ Speech And Language Disability       1.00      0.00      0.00       762
+                    Thalassemia       1.00      0.00      0.00       533
+
+                       accuracy                           0.08     15884
+                      macro avg       0.91      0.05      0.01     15884
+                   weighted avg       0.86      0.08      0.02     15884

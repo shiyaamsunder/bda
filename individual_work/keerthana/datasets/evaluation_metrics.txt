@@ -1,0 +1,72 @@
+Accuracy: 0.07756232686980609
+Confusion Matrix:
+[[   0    0    0    0    0    0    0    0    0  350    0    0    0    0
+     0    0    0    0    0    0    0]
+ [   0    0    0    0    0    0    0    0    0  653    0    0    0    0
+     0    0    0    0    0    0    0]
+ [   0    0    0    0    0    0    0    0    0 1206    0    0    0    0
+     0    0    0    0    0    0    0]
+ [   0    0    0    0    0    0    0    0    0  931    0    0    0    0
+     0    0    0    0    0    0    0]
+ [   0    0    0    0    0    0    0    0    0  681    0    0    0    0
+     0    0    0    0    0    0    0]
+ [   0    0    0    0    0    0    0    0    0 1206    0    0    0    0
+     0    0    0    0    0    0    0]
+ [   0    0    0    0    0    0    0    0    0  609    0    0    0    0
+     0    0    0    0    0    0    0]
+ [   0    0    0    0    0    0    0    0    0 1050    0    0    0    0
+     0    0    0    0    0    0    0]
+ [   0    0    0    0    0    0    0    0    0  550    0    0    0    0
+     0    0    0    0    0    0    0]
+ [   0    0    0    0    0    0    0    0    0 1232    0    0    0    0
+     0    0    0    0    0    0    0]
+ [   0    0    0    0    0    0    0    0    0 1104    0    0    0    0
+     0    0    0    0    0    0    0]
+ [   0    0    0    0    0    0    0    0    0 1028    0    0    0    0
+     0    0    0    0    0    0    0]
+ [   0    0    0    0    0    0    0    0    0 1037    0    0    0    0
+     0    0    0    0    0    0    0]
+ [   0    0    0    0    0    0    0    0    0  460    0    0    0    0
+     0    0    0    0    0    0    0]
+ [   0    0    0    0    0    0    0    0    0  811    0    0    0    0
+     0    0    0    0    0    0    0]
+ [   0    0    0    0    0    0    0    0    0  374    0    0    0    0
+     0    0    0    0    0    0    0]
+ [   0    0    0    0    0    0    0    0    0  573    0    0    0    0
+     0    0    0    0    0    0    0]
+ [   0    0    0    0    0    0    0    0    0  362    0    0    0    0
+     0    0    0    0    0    0    0]
+ [   0    0    0    0    0    0    0    0    0  391    0    0    0    0
+     0    0    0    0    0    0    0]
+ [   0    0    0    0    0    0    0    0    0  765    0    0    0    0
+     0    0    0    0    0    0    0]
+ [   0    0    0    0    0    0    0    0    0  511    0    0    0    0
+     0    0    0    0    0    0    0]]
+Classification Report:
+                                 precision    recall  f1-score   support
+
+             Acid Attack Victim       0.00      0.00      0.00       350
+       Autism Spectrum Disorder       0.00      0.00      0.00       653
+                      Blindness       0.00      0.00      0.00      1206
+                 Cerebral Palsy       0.00      0.00      0.00       931
+Chronic Neurological Conditions       0.00      0.00      0.00       681
+             Hearing Impairment       0.00      0.00      0.00      1206
+                     Hemophilia       0.00      0.00      0.00       609
+        Intellectual Disability       0.00      0.00      0.00      1050
+                  Leprosy Cured       0.00      0.00      0.00       550
+           Locomotor Disability       0.08      1.00      0.14      1232
+                     Low Vision       0.00      0.00      0.00      1104
+                 Mental Illness       0.00      0.00      0.00      1028
+            Multiple Disability       0.00      0.00      0.00      1037
+             Multiple Sclerosis       0.00      0.00      0.00       460
+             Muscular Dystrophy       0.00      0.00      0.00       811
+            Parkinson'S Disease       0.00      0.00      0.00       374
+         Short Stature/Dwarfism       0.00      0.00      0.00       573
+            Sickle Cell Disease       0.00      0.00      0.00       362
+ Specific Learning Disabilities       0.00      0.00      0.00       391
+ Speech And Language Disability       0.00      0.00      0.00       765
+                    Thalassemia       0.00      0.00      0.00       511
+
+                       accuracy                           0.08     15884
+                      macro avg       0.00      0.05      0.01     15884
+                   weighted avg       0.01      0.08      0.01     15884
