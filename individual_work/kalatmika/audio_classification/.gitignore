@@ -1,0 +1,9 @@
+.vscode
+bin
+include
+share
+lib
+venv
+pyvenv.cfg
+dataset/fold*
+etc
